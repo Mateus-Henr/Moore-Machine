@@ -1,4 +1,4 @@
-#Moore Machine
+# Moore Machine
 > Practical Work 02 – Introduction to Logic Systems 1 – Trio
 Description: A simple implementation of a finite state machine, more specifically, a Moore Machine..
 
